@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+[project]
+authors = [{name = "Matthew D. Webb", email = "matt.webb@carleton.ca"}]
+readme = "README.md"
+license = "MIT"
+name = "undidpy"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas"]
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.optional-dependencies]
+examples = ["pandas>=2"]
+test = ["pytest>=7", "scipy"]
+
+[project.urls]
+Repository = "https://github.com/mattdwebb/undidpy"
+Issues = "https://github.com/mattdwebb/undidpy/issues"

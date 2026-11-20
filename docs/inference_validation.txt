@@ -1,0 +1,11 @@
+MAX_DELETE_GAP 8.881784197001252e-16
+test_frozen_research_values (test_baseline.BaselineTests.test_frozen_research_values) ... ok
+test_row_and_state_label_invariance (test_baseline.BaselineTests.test_row_and_state_label_invariance) ... ok
+test_enumeration_and_large_rank_sampling (test_inference.InferenceTests.test_enumeration_and_large_rank_sampling) ... ok
+test_fast_reference_point_deletions_t_and_relabeling (test_inference.InferenceTests.test_fast_reference_point_deletions_t_and_relabeling) ... ok
+test_fixed_ri_placebo_and_failures (test_inference.InferenceTests.test_fixed_ri_placebo_and_failures) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 19.553s
+
+OK

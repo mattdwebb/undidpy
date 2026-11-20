@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software version and the estimator references listed in the README."
+type: software
+title: "undidpy: difference-in-differences estimation and inference"
+version: "0.1.0"
+repository-code: "https://github.com/mattdwebb/undidpy"
+license: MIT
+authors:
+  - family-names: Webb
+    given-names: Matthew D.

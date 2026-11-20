@@ -1,0 +1,7 @@
+test_frozen_research_values (test_baseline.BaselineTests.test_frozen_research_values) ... ok
+test_row_and_state_label_invariance (test_baseline.BaselineTests.test_row_and_state_label_invariance) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.280s
+
+OK

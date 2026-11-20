@@ -1,0 +1,7 @@
+test_aggregate_rejects_a_removed_cohort (test_legacy_t.LegacyTTests.test_aggregate_rejects_a_removed_cohort) ... ok
+test_t39_and_t7 (test_legacy_t.LegacyTTests.test_t39_and_t7) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.061s
+
+OK

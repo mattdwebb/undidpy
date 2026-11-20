@@ -1,0 +1,18 @@
+{
+  "package": "undidpy",
+  "candidate": false,
+  "counts": {
+    "pass": 25,
+    "expected_failure": 3,
+    "not_applicable": 2
+  },
+  "maxima": {
+    "point_gap": 4.440892098500626e-16,
+    "component_gap": 1.3322676295501878e-15,
+    "weight_gap": 0.0,
+    "delete_gap": 6.661338147750939e-16,
+    "jk_gap": 5.329070518200751e-15,
+    "ri_gap": 5.551115123125783e-16,
+    "placebo_gap": 1.9984014443252818e-15
+  }
+}

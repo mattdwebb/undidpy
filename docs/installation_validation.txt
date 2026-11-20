@@ -1,0 +1,13 @@
+Obtaining file:///<historical-local-path>/undidpy
+  Checking if build backend supports build_editable: started
+  Checking if build backend supports build_editable: finished with status 'done'
+  Preparing editable metadata (pyproject.toml): started
+  Preparing editable metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: undidpy
+  Building editable for undidpy (pyproject.toml): started
+  Building editable for undidpy (pyproject.toml): finished with status 'done'
+  Created wheel for undidpy: filename=undidpy-0.1.0-0.editable-py3-none-any.whl size=1218 sha256=2dac85027097e1c8e3a0198e8f8f38b26050405fad8aca10c1ec6c04d21f560a
+  Stored in directory: <historical-local-path>/7cbd2ba1fac400b6f91ee5bbcc86fbdea3b77e6233dbe9c14e
+Successfully built undidpy
+Installing collected packages: undidpy
+Successfully installed undidpy-0.1.0

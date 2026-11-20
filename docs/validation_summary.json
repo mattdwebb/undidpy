@@ -1,0 +1,21 @@
+{
+  "package": "undidpy",
+  "baseline_source_fixtures": "passed",
+  "fast_reference_max_delete_gap": 8.881784197001252e-16,
+  "fast_reference_point_delete_p_tolerances": {
+    "rtol": 1e-08,
+    "atol": 2e-10
+  },
+  "RI_hit_counts": "exact equality",
+  "placebo_hit_counts": "exact equality",
+  "t_reference": "Student t, G-1",
+  "Add": "undefined: methodology unresolved",
+  "Replace": "validated",
+  "Subtract": "validated homogeneous scalar specification",
+  "row_and_label_invariance": "passed",
+  "fixed_count_999_sampling": "passed",
+  "editable_install": "passed",
+  "imports": "passed",
+  "compileall": "passed",
+  "no_cross_package_dependency": "passed"
+}

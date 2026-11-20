@@ -1,0 +1,9 @@
+{
+  "package": "undidpy",
+  "estimate": 2.391927954040046,
+  "native_se": null,
+  "jackknife_se": 0.5239178206221851,
+  "jackknife_p": 0.000809366506978004,
+  "clusters": 12,
+  "jackknife_df": 11
+}
